@@ -32,7 +32,7 @@ A dictionary app
 
 <h2>Find Me</h2>
 <ul>
-  <li><a href="https://hashnode.com/leannacodes">Hashnode @Juliet</a></li>
+  <li><a href="https://hashnode.com/leannacodes">Hashnode @Leannacodes</a></li>
   <li><a href="https://www.linkedin.com/in/juliet-akani-ngomani-278294157/">Linkedin @Juliet</a></li>
   <li><a href="https://codepen.io/Juliee23">Codepen @Juliee23</a></li>
 </ul>
