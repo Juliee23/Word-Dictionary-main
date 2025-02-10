@@ -16,7 +16,7 @@ A dictionary app
 </ul>
 
 <h2>Screenshot</h2>
-<img src="">
+<img src="https://github.com/Juliee23/Word-Dictionary-main/blob/main/word-dictionary-ss.png">
 
 <h2>Built with:</h2>
 <ul>
@@ -27,7 +27,7 @@ A dictionary app
 
 <h2>Demo</h2>
 <ul>
-  <li><a href="https://.netlify.app">.netlify.app</a></li>
+  <li><a href="https:///word-dictionary-search.netlify.app">word-dictionary-search.netlify.app</a></li>
 </ul>
 
 <h2>Find Me</h2>
